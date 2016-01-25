@@ -1,0 +1,32 @@
+222, 2
+
+644, 609
+
+
+
+private void logOut_Click(object sender, EventArgs e)
+        {
+            
+            new LoginWindow().Show();
+            this.Dispose();
+        }
+
+protected override void OnFormClosed(FormClosedEventArgs e)
+        {
+            base.OnFormClosed(e);
+            Application.Exit();
+        }
+
+select prq
+from c
+where prq <> all
+(select cid
+from c
+)
+
+select c.prq,dname
+from c c,dept d
+where c.prq <> all
+(select cid
+from c
+) and c.dept = d.deptno

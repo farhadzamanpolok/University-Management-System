@@ -1,0 +1,42 @@
+H:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\db.mdf
+H:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\db_log.ldf
+H:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+H:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+H:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+H:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Student.resources
+H:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Administrator.resources
+H:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Faculty.resources
+H:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.LoginWindow.resources
+H:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+H:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\University Management System.csproj.GenerateResource.Cache
+H:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+H:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Administrator\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\db.mdf
+C:\Users\Administrator\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\db_log.ldf
+C:\Users\Administrator\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\University Management System.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Student.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Administrator.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Faculty.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.LoginWindow.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\University Management System.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+H:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\University Management System.csprojResolveAssemblyReference.cache
+G:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+G:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+G:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+G:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\db.mdf
+G:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\db_log.ldf
+G:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+G:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+G:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\University Management System.csprojResolveAssemblyReference.cache
+G:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Student.resources
+G:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Administrator.resources
+G:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Faculty.resources
+G:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.LoginWindow.resources
+G:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+G:\DEPATMENTALCOURSES\programing language\c #\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\University Management System.csproj.GenerateResource.Cache
